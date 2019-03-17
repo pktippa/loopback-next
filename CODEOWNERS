@@ -28,6 +28,7 @@ packages/repository-json-schema/* @bajtos
 packages/rest/* @bajtos @raymondfeng
 packages/rest-crud/* @bajtos @hacksparrow
 packages/service-proxy/* @raymondfeng
+packages/socketio/* @raymondfeng
 packages/testlab/* @bajtos
 packages/tsdocs/* @raymondfeng
 
